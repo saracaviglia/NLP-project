@@ -843,7 +843,7 @@ seu,ADJ
 compagno,NOUN
 Vernon,NOUN
 Bruce,NOUN
-Hoeksema,NOOUN
+Hoeksema,NOUN
 :,PUNCT
 «,PUNCT
 No,FUNC
@@ -1195,7 +1195,7 @@ miage,NOUN
 noiatri,PRON
 femmo,VERB
 di,FUNC
-ponti,NOUON
+ponti,NOUN
 .,PUNCT
 St,ADJ
 ’,PUNCT
@@ -1396,7 +1396,7 @@ pe,FUNC
 unna,PRON
 figgia,NOUN
 ",",PUNCT
-dapeu,ADVMì
+dapeu,ADV
 gh,PRON
 ’,PUNCT
 é,VERB
@@ -1447,7 +1447,7 @@ unn,PRON
 operaçion,NOUN
 pe,FUNC
 sarvâlo,VERB
-",",PUNCT.
+",",PUNCT
 ma,FUNC
 inta,FUNC
 seiaña,NOUN
@@ -1506,7 +1506,7 @@ l,PRON
 ’,PUNCT
 à,VERB
 deciarou,VERB
-corpeive,NOUN.
+corpeive,NOUN
 a,PRON
 Annalucia,NOUN
 Cecere,NOUN
@@ -1766,7 +1766,7 @@ votià,VERB
 a-i,FUNC
 22,ADJ
 e,FUNC
-23,ADJ.
+23,ADJ
 de,FUNC
 marso,NOUN
 pe-o,FUNC
@@ -2222,7 +2222,7 @@ arrivo,NOUN
 o,PRON
 l,PRON
 ’,PUNCT
-à,VERB.
+à,VERB
 promisso,VERB
 .,PUNCT
 Pe,FUNC
@@ -3683,7 +3683,7 @@ fuga,NOUN
 .,PUNCT
 «,PUNCT
 No,ADV
-çerchiemo,VEREB
+çerchiemo,VERB
 de,FUNC
 tiâse,VERB
 feua,ADV
@@ -3768,7 +3768,7 @@ Paraguay,NOUN
 Ma,FUNC
 çerti,PRON
 Paixi,NOUN
-an,VEBR
+an,VERB
 votou,VERB
 contra,ADV
 ",",PUNCT
@@ -3830,8 +3830,8 @@ turbative,NOUN
 do,FUNC
 mercou,NOUN
 o,PRON
-l,PTON
-’,PUNCY
+l,PRON
+’,PUNCT
 é,VERB
 stæto,VERB
 asbasciou,VERB

@@ -843,7 +843,7 @@ O seu compagno Vernon Bruce Hoeksema: «No te diggo addio ma graçie».,seu,ADJ
 O seu compagno Vernon Bruce Hoeksema: «No te diggo addio ma graçie».,compagno,NOUN
 O seu compagno Vernon Bruce Hoeksema: «No te diggo addio ma graçie».,Vernon,NOUN
 O seu compagno Vernon Bruce Hoeksema: «No te diggo addio ma graçie».,Bruce,NOUN
-O seu compagno Vernon Bruce Hoeksema: «No te diggo addio ma graçie».,Hoeksema,NOOUN
+O seu compagno Vernon Bruce Hoeksema: «No te diggo addio ma graçie».,Hoeksema,NOUN
 O seu compagno Vernon Bruce Hoeksema: «No te diggo addio ma graçie».,:,PUNCT
 O seu compagno Vernon Bruce Hoeksema: «No te diggo addio ma graçie».,«,PUNCT
 O seu compagno Vernon Bruce Hoeksema: «No te diggo addio ma graçie».,No,FUNC
@@ -1195,7 +1195,7 @@ A Commiscion europea a l’à firmou in Paraguay o neuvo accòrdio co-o Mercosur
 "«Gh’é chi tia sciù de miage, noiatri femmo di ponti.",noiatri,PRON
 "«Gh’é chi tia sciù de miage, noiatri femmo di ponti.",femmo,VERB
 "«Gh’é chi tia sciù de miage, noiatri femmo di ponti.",di,FUNC
-"«Gh’é chi tia sciù de miage, noiatri femmo di ponti.",ponti,NOUON
+"«Gh’é chi tia sciù de miage, noiatri femmo di ponti.",ponti,NOUN
 "«Gh’é chi tia sciù de miage, noiatri femmo di ponti.",.,PUNCT
 "St’inteisa chì a l’é un segnâ pe-o mondo», a l’à dito a prescidente Ursula von der Leyen.",St,ADJ
 "St’inteisa chì a l’é un segnâ pe-o mondo», a l’à dito a prescidente Ursula von der Leyen.",’,PUNCT
@@ -1395,7 +1395,7 @@ O l’é avvegnuo a-i 16 de zenâ pöco primma de mezogiorno.,.,PUNCT
 "Segondo a reconstruçion, i doî aivan comensou a rattellâ inti bagni, se pensa pe unna figgia, dapeu gh’é stæto l’aggrescion inte unna classe.",unna,PRON
 "Segondo a reconstruçion, i doî aivan comensou a rattellâ inti bagni, se pensa pe unna figgia, dapeu gh’é stæto l’aggrescion inte unna classe.",figgia,NOUN
 "Segondo a reconstruçion, i doî aivan comensou a rattellâ inti bagni, se pensa pe unna figgia, dapeu gh’é stæto l’aggrescion inte unna classe.",",",PUNCT
-"Segondo a reconstruçion, i doî aivan comensou a rattellâ inti bagni, se pensa pe unna figgia, dapeu gh’é stæto l’aggrescion inte unna classe.",dapeu,ADVMì
+"Segondo a reconstruçion, i doî aivan comensou a rattellâ inti bagni, se pensa pe unna figgia, dapeu gh’é stæto l’aggrescion inte unna classe.",dapeu,ADV
 "Segondo a reconstruçion, i doî aivan comensou a rattellâ inti bagni, se pensa pe unna figgia, dapeu gh’é stæto l’aggrescion inte unna classe.",gh,PRON
 "Segondo a reconstruçion, i doî aivan comensou a rattellâ inti bagni, se pensa pe unna figgia, dapeu gh’é stæto l’aggrescion inte unna classe.",’,PUNCT
 "Segondo a reconstruçion, i doî aivan comensou a rattellâ inti bagni, se pensa pe unna figgia, dapeu gh’é stæto l’aggrescion inte unna classe.",é,VERB
@@ -1479,7 +1479,7 @@ A lamma a l’é arrivâ fin a-o figæto e a-a minsa.,.,PUNCT
 "Dòppo trent’anni gh’é unna sentensa de primmo graddo pe l’assascinio da Nada Cella, ammassâ de 24 anni into scagno do commerçialista Marco Soracco de Ciavai.",da,FUNC
 "Dòppo trent’anni gh’é unna sentensa de primmo graddo pe l’assascinio da Nada Cella, ammassâ de 24 anni into scagno do commerçialista Marco Soracco de Ciavai.",Nada,NOUN
 "Dòppo trent’anni gh’é unna sentensa de primmo graddo pe l’assascinio da Nada Cella, ammassâ de 24 anni into scagno do commerçialista Marco Soracco de Ciavai.",Cella,NOUN
-"Dòppo trent’anni gh’é unna sentensa de primmo graddo pe l’assascinio da Nada Cella, ammassâ de 24 anni into scagno do commerçialista Marco Soracco de Ciavai.",",",PUNCT.
+"Dòppo trent’anni gh’é unna sentensa de primmo graddo pe l’assascinio da Nada Cella, ammassâ de 24 anni into scagno do commerçialista Marco Soracco de Ciavai.",",",PUNCT
 "Dòppo trent’anni gh’é unna sentensa de primmo graddo pe l’assascinio da Nada Cella, ammassâ de 24 anni into scagno do commerçialista Marco Soracco de Ciavai.",ammassâ,VERB
 "Dòppo trent’anni gh’é unna sentensa de primmo graddo pe l’assascinio da Nada Cella, ammassâ de 24 anni into scagno do commerçialista Marco Soracco de Ciavai.",de,FUNC
 "Dòppo trent’anni gh’é unna sentensa de primmo graddo pe l’assascinio da Nada Cella, ammassâ de 24 anni into scagno do commerçialista Marco Soracco de Ciavai.",24,ADJ
@@ -1505,7 +1505,7 @@ A Corte d’assise de Zena a l’à deciarou corpeive a Annalucia Cecere e a l�
 A Corte d’assise de Zena a l’à deciarou corpeive a Annalucia Cecere e a l’à condannâ à 24 anni de prexon.,’,PUNCT
 A Corte d’assise de Zena a l’à deciarou corpeive a Annalucia Cecere e a l’à condannâ à 24 anni de prexon.,à,VERB
 A Corte d’assise de Zena a l’à deciarou corpeive a Annalucia Cecere e a l’à condannâ à 24 anni de prexon.,deciarou,VERB
-A Corte d’assise de Zena a l’à deciarou corpeive a Annalucia Cecere e a l’à condannâ à 24 anni de prexon.,corpeive,NOUN.
+A Corte d’assise de Zena a l’à deciarou corpeive a Annalucia Cecere e a l’à condannâ à 24 anni de prexon.,corpeive,NOUN
 A Corte d’assise de Zena a l’à deciarou corpeive a Annalucia Cecere e a l’à condannâ à 24 anni de prexon.,a,PRON
 A Corte d’assise de Zena a l’à deciarou corpeive a Annalucia Cecere e a l’à condannâ à 24 anni de prexon.,Annalucia,NOUN
 A Corte d’assise de Zena a l’à deciarou corpeive a Annalucia Cecere e a l’à condannâ à 24 anni de prexon.,Cecere,NOUN
@@ -1765,7 +1765,7 @@ Se votià a-i 22 e 23 de marso pe-o referendum constituçionale in sciâ reforma
 Se votià a-i 22 e 23 de marso pe-o referendum constituçionale in sciâ reforma da giustiçia ch’o prevedde sorviatutto a spartiçion de carree di magistrati.,a-i,FUNC
 Se votià a-i 22 e 23 de marso pe-o referendum constituçionale in sciâ reforma da giustiçia ch’o prevedde sorviatutto a spartiçion de carree di magistrati.,22,ADJ
 Se votià a-i 22 e 23 de marso pe-o referendum constituçionale in sciâ reforma da giustiçia ch’o prevedde sorviatutto a spartiçion de carree di magistrati.,e,FUNC
-Se votià a-i 22 e 23 de marso pe-o referendum constituçionale in sciâ reforma da giustiçia ch’o prevedde sorviatutto a spartiçion de carree di magistrati.,23,ADJ.
+Se votià a-i 22 e 23 de marso pe-o referendum constituçionale in sciâ reforma da giustiçia ch’o prevedde sorviatutto a spartiçion de carree di magistrati.,23,ADJ
 Se votià a-i 22 e 23 de marso pe-o referendum constituçionale in sciâ reforma da giustiçia ch’o prevedde sorviatutto a spartiçion de carree di magistrati.,de,FUNC
 Se votià a-i 22 e 23 de marso pe-o referendum constituçionale in sciâ reforma da giustiçia ch’o prevedde sorviatutto a spartiçion de carree di magistrati.,marso,NOUN
 Se votià a-i 22 e 23 de marso pe-o referendum constituçionale in sciâ reforma da giustiçia ch’o prevedde sorviatutto a spartiçion de carree di magistrati.,pe-o,FUNC
@@ -2221,7 +2221,7 @@ Miggiæa de mòrti in Iran pe-e proteste contra o regimme di ayatollah.,.,PUNCT
 "O prescidente american Donald Trump o l’à sponciou i manifestanti à anâ avanti e piggiâ o contròllo de instituçioin: «L’aggiutto o l’é in arrivo», o l’à promisso.",o,PRON
 "O prescidente american Donald Trump o l’à sponciou i manifestanti à anâ avanti e piggiâ o contròllo de instituçioin: «L’aggiutto o l’é in arrivo», o l’à promisso.",l,PRON
 "O prescidente american Donald Trump o l’à sponciou i manifestanti à anâ avanti e piggiâ o contròllo de instituçioin: «L’aggiutto o l’é in arrivo», o l’à promisso.",’,PUNCT
-"O prescidente american Donald Trump o l’à sponciou i manifestanti à anâ avanti e piggiâ o contròllo de instituçioin: «L’aggiutto o l’é in arrivo», o l’à promisso.",à,VERB.
+"O prescidente american Donald Trump o l’à sponciou i manifestanti à anâ avanti e piggiâ o contròllo de instituçioin: «L’aggiutto o l’é in arrivo», o l’à promisso.",à,VERB
 "O prescidente american Donald Trump o l’à sponciou i manifestanti à anâ avanti e piggiâ o contròllo de instituçioin: «L’aggiutto o l’é in arrivo», o l’à promisso.",promisso,VERB
 "O prescidente american Donald Trump o l’à sponciou i manifestanti à anâ avanti e piggiâ o contròllo de instituçioin: «L’aggiutto o l’é in arrivo», o l’à promisso.",.,PUNCT
 Pe Mosca e menasse à Teheran «no se peuan açettâ» e un neuvo attacco o l’avieiva «conseguense desastrose».,Pe,FUNC
@@ -3682,7 +3682,7 @@ Pe-a moggê Jessica l’é stæto dispòsto l’arresto in cà.,.,PUNCT
 "O provedimento, arrivou dòppo l’interrogatöio into giorno da commemoraçion de vittime à Matigny, o l’é stæto giustificou co-o reisego de fuga.",.,PUNCT
 "«No çerchiemo de tiâse feua da-e nòstre responsabilitæ, semmo devastæ da-o dô», aivan dito.",«,PUNCT
 "«No çerchiemo de tiâse feua da-e nòstre responsabilitæ, semmo devastæ da-o dô», aivan dito.",No,ADV
-"«No çerchiemo de tiâse feua da-e nòstre responsabilitæ, semmo devastæ da-o dô», aivan dito.",çerchiemo,VEREB
+"«No çerchiemo de tiâse feua da-e nòstre responsabilitæ, semmo devastæ da-o dô», aivan dito.",çerchiemo,VERB
 "«No çerchiemo de tiâse feua da-e nòstre responsabilitæ, semmo devastæ da-o dô», aivan dito.",de,FUNC
 "«No çerchiemo de tiâse feua da-e nòstre responsabilitæ, semmo devastæ da-o dô», aivan dito.",tiâse,VERB
 "«No çerchiemo de tiâse feua da-e nòstre responsabilitæ, semmo devastæ da-o dô», aivan dito.",feua,ADV
@@ -3767,7 +3767,7 @@ O scindico Nicolas Féraud o no veu parlâ de dimiscioin.,.,PUNCT
 "Ma çerti Paixi an votou contra, in particolâ Fransa, Polònia, Austria, Ongaia e Irlanda.",Ma,FUNC
 "Ma çerti Paixi an votou contra, in particolâ Fransa, Polònia, Austria, Ongaia e Irlanda.",çerti,PRON
 "Ma çerti Paixi an votou contra, in particolâ Fransa, Polònia, Austria, Ongaia e Irlanda.",Paixi,NOUN
-"Ma çerti Paixi an votou contra, in particolâ Fransa, Polònia, Austria, Ongaia e Irlanda.",an,VEBR
+"Ma çerti Paixi an votou contra, in particolâ Fransa, Polònia, Austria, Ongaia e Irlanda.",an,VERB
 "Ma çerti Paixi an votou contra, in particolâ Fransa, Polònia, Austria, Ongaia e Irlanda.",votou,VERB
 "Ma çerti Paixi an votou contra, in particolâ Fransa, Polònia, Austria, Ongaia e Irlanda.",contra,ADV
 "Ma çerti Paixi an votou contra, in particolâ Fransa, Polònia, Austria, Ongaia e Irlanda.",",",PUNCT
@@ -3829,8 +3829,8 @@ L’inteisa a saiàa firmâ a-i 17 de zenâ in Paraguay.,.,PUNCT
 "O limite pe comensâ de investigaçioin in scî produti agricoli in caxo de turbative do mercou o l’é stæto asbasciou dal’8% a-o 5%, comme domandou da-i agricoltoî italien.",do,FUNC
 "O limite pe comensâ de investigaçioin in scî produti agricoli in caxo de turbative do mercou o l’é stæto asbasciou dal’8% a-o 5%, comme domandou da-i agricoltoî italien.",mercou,NOUN
 "O limite pe comensâ de investigaçioin in scî produti agricoli in caxo de turbative do mercou o l’é stæto asbasciou dal’8% a-o 5%, comme domandou da-i agricoltoî italien.",o,PRON
-"O limite pe comensâ de investigaçioin in scî produti agricoli in caxo de turbative do mercou o l’é stæto asbasciou dal’8% a-o 5%, comme domandou da-i agricoltoî italien.",l,PTON
-"O limite pe comensâ de investigaçioin in scî produti agricoli in caxo de turbative do mercou o l’é stæto asbasciou dal’8% a-o 5%, comme domandou da-i agricoltoî italien.",’,PUNCY
+"O limite pe comensâ de investigaçioin in scî produti agricoli in caxo de turbative do mercou o l’é stæto asbasciou dal’8% a-o 5%, comme domandou da-i agricoltoî italien.",l,PRON
+"O limite pe comensâ de investigaçioin in scî produti agricoli in caxo de turbative do mercou o l’é stæto asbasciou dal’8% a-o 5%, comme domandou da-i agricoltoî italien.",’,PUNCT
 "O limite pe comensâ de investigaçioin in scî produti agricoli in caxo de turbative do mercou o l’é stæto asbasciou dal’8% a-o 5%, comme domandou da-i agricoltoî italien.",é,VERB
 "O limite pe comensâ de investigaçioin in scî produti agricoli in caxo de turbative do mercou o l’é stæto asbasciou dal’8% a-o 5%, comme domandou da-i agricoltoî italien.",stæto,VERB
 "O limite pe comensâ de investigaçioin in scî produti agricoli in caxo de turbative do mercou o l’é stæto asbasciou dal’8% a-o 5%, comme domandou da-i agricoltoî italien.",asbasciou,VERB
