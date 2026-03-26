@@ -16,7 +16,7 @@ Folders
 - `csv`: `.csv` files obtained from the PoS tagging and then used for evaluation
 - `no_titles`: articles from *O Zina* without the titles
 - `notebooks`: all the notebooks used to create the final versions of the file, the PoS tagging, and the analysis; `final.ipynb` is the definitive notebook with the pipeline, while the others are the drafts used
-- `raw`: articles from *O Zina* '
+- `raw`: articles from *O Zina* 
 
 Files
 - `preprocessed.txt`: all the articles from the 8 files in `no_titles`
