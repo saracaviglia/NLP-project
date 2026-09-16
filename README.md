@@ -1,4 +1,4 @@
-# NLP-project
+# Parts of speech: the Genoese dialect
 This is my project from the course of Natural Language Processing (University of Genoa, 2025). 
 
 ### Details of the project
